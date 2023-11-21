@@ -86,9 +86,12 @@ $$
 ### y - direction
 
 $$
-\Delta v_y = C\ln(\frac{m_0}{M})cos(\theta) - gt
- \\
-v(t)_y = C\ln(\frac{M-\dot{m}t}{M})cos(\theta) + v_{y0}-gt
+\Delta v_y = C \ln\left(\frac{m_0}{M}\right) \cos(\theta) - gt
+$$
+
+
+$$
+v(t)_y = C\ln(\frac{M-\dot{m}t}{M})cos(\theta)+v_y-gt
 $$
 
 $$
